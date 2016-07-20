@@ -11,7 +11,7 @@ collections:
 email: josh@tabansi.com
 description: |
   Svengali is an internationally renown creative agency that does amazing interior design and furniture manufacturing.
-baseurl: ''
+baseurl: 
 url: http://svengalidesigns.com
 twitter_username: svengalidesigns
 github_username: tabansi-js
